@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-* 🔭 I’m currently working on ... Machine Learning
+- 🔭 I’m currently working on ... Machine Learning
 - 🌱 I’m currently learning ... Computer Vision
 - 👯 I’m looking to collaborate on ... Machine Learning
 - 🤔 I’m looking for help with ... Data Engineeering and AWS
