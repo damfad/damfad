@@ -1,12 +1,10 @@
 ## Hello folks, I am Dami - Data Scientist and Machine Learning Engineer 👋
 
-### Here is What I'm working on! 👋
-
-
-
 ### I am a lifelong learner. If there is any new Machine Learning algorithm, I am gooing to learn it. 
 
-- 🔭   *I’m currently working on **Machine Learning**
+### Here is What I'm working on! 👋
+
+- 🔭   I’m currently working on **Machine Learning**
 - 🌱   I’m currently learning **Computer Vision**
 - 👯   I’m looking to collaborate on **Machine Learning**
 - 🤔   I’m looking for help with **Data Engineeering & Cloud Computing**
