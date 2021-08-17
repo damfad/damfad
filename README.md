@@ -27,12 +27,3 @@
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/damilola-fadele-pmp-engineer-in-training-28453a67/)
-
-<br />
-
-### Languages and Tools:
-
-
-<br />
-<br />
-
