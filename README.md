@@ -1,6 +1,6 @@
 ## Hello folks, I am Dami - Data Scientist and Machine Learning Engineer 👋
 
-### I am a lifelong learner. If there is any new Machine Learning algorithm, I am gooing to learn it. 
+### I am a lifelong learner. If there is any new Machine Learning algorithm, I am going to learn it. 
 
 ### Here is What I'm working on! 👋
 
