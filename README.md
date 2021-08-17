@@ -5,7 +5,7 @@
 ### Here is What I'm working on! 👋
 
 - 🔭   I’m currently working on **Machine Learning**
-- 🌱   I’m currently learning **Computer Vision**
+- 🌱   I’m currently learning **Computer Vision and Neural Network**
 - 👯   I’m looking to collaborate on **Machine Learning**
 - 🤔   I’m looking for help with **Data Engineeering & Cloud Computing**
 - 💬   Ask me about **Anything**
