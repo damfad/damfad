@@ -10,6 +10,6 @@
 - 🤔   I’m looking for help with **Data Engineeering & Cloud Computing**
 - 💬   Ask me about **Anything**
 - 📫   How to reach me: [LinkedIn](https://www.linkedin.com/in/damilola-fadele/)
-- ⚡   Fun fact: I love Basketball and Chess
+- ⚡   Fun fact: I love Chess and Basketball 🏀
 - 🍓   This page is always inder construction
 
