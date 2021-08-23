@@ -7,7 +7,7 @@
 - 🔭   I’m currently working on **Machine Learning**
 - 🌱   I’m currently learning **Computer Vision and Neural Network**
 - 👯   I’m looking to collaborate on **Machine Learning**
-- 🤔   I’m looking for help with **Data Engineeering & Cloud Computing**
+- 🤔   I’m looking for help with **Data Engineeering**
 - 💬   Ask me about **Anything**
 - 📫   How to reach me: [LinkedIn](https://www.linkedin.com/in/damilola-fadele/)
 - ⚡   Fun fact: I love Chess and Basketball 🏀
