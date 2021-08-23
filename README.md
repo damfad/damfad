@@ -24,4 +24,4 @@
 
 
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/damilola-fadele-pmp-engineer-in-training-28453a67/)
+- [LinkedIn](https://www.linkedin.com/in/damilola-fadele/)
