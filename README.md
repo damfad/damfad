@@ -15,7 +15,7 @@
 
 
 ## Contents
-- [Python](https://github.com/damfad/python_encrypt): In this folder there are general python projects done to show my understanding of python. 
+- [Python](https://github.com/damfad/Python_Projects): In this folder there are general python projects done to show my understanding of python. 
 - Machine Learning Micro Projects: Machine-learning algorithms use statistics to find patterns in massive* amounts of data and help with predictions.  [All algorithms](https://scikit-learn.org/stable/)
 - Data Analysis and Visualization: Extraction, EDA, Data Manipulation, Data wrangling and Data Visualization. Libraries like  [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [SciPy](https://www.scipy.org/), [Datetime](https://docs.python.org/3/library/datetime.html), [Matplotlib](https://matplotlib.org/index.html), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Tableau](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=tableau&adgroup=CTX-Brand-Priority-Core-E&adused=RESP&matchtype=e&placement=&gclid=CjwKCAiAuoqABhAsEiwAdSkVVEf1cgmCvv6TQCeDhSfYSuv5vL2cYOjykVcdorSu7qYE9LxHjTcQaBoCTzQQAvD_BwE&gclsrc=aw.ds).
 
