@@ -1,4 +1,4 @@
-## This is `Dami` - Data Scientist and Machine Learning Engineer 👋
+## This is `Dami` - Recreational Data Scientist and Machine Learning Engineer 👋
 
 
 ### Here is What I'm working on! 👋
