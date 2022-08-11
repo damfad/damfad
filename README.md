@@ -3,7 +3,7 @@
 
 ### Here is What I'm working on! 👋
 
-- 🔭   I’m currently working at **Canadian National Railway**
+- 🔭   I’m currently working at **Blackline Safety**
 - 🔭   I’m currently working on **Machine Learning**
 - 🌱   I’m currently learning **Computer Vision and Neural Network**
 - 👯   I’m looking to collaborate on **Machine Learning**
